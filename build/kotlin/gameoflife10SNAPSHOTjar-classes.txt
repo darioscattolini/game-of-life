@@ -1,1 +1,1 @@
-C:\Users\Dario\Projects\code-sherpas\game-of-life\build\classes\kotlin\main\Cell.class;C:\Users\Dario\Projects\code-sherpas\game-of-life\build\classes\kotlin\main\Grid.class
+/Users/sarayr/Desktop/game of life/game-of-life/build/classes/kotlin/main/GameOfLife$getNextGeneration$1.class:/Users/sarayr/Desktop/game of life/game-of-life/build/classes/kotlin/main/GameOfLife.class:/Users/sarayr/Desktop/game of life/game-of-life/build/classes/kotlin/main/GameOfLifeKt.class
