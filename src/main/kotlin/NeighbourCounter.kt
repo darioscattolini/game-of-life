@@ -1,5 +1,5 @@
-class NeighbourCounter {
-    fun countCellNeighbours(grid: List<String>, cellRow: Int, cellCol: Int): Int {
+class NeighbourCounter(private val grid: List<String>) {
+    fun countCellNeighbours(cellRow: Int, cellCol: Int): Int {
         var count = 0
 
         if (grid[cellRow].getOrNull(cellCol - 1) == '*') count++
@@ -19,5 +19,4 @@ class NeighbourCounter {
 
         return count
     }
-
 }
